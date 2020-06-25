@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>footericon-messenger</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Footer" transform="translate(-1123.000000, -228.000000)" fill="#FFFFFF">
+            <g id="Icons" transform="translate(995.000000, 198.000000)">
+                <path d="M136.765931,39.9304 L134.684419,37.8024 L130.675069,39.984 L135.070637,35.3944 L137.15215,37.5224 L141.1615,35.3408 L136.765931,39.9304 Z M135.917878,30 C131.472711,30 128,33.3152 128,37.4056 C128,39.732 128.682183,41.808 131.121455,43.1656 L131.121455,46 L133.737168,44.5008 C134.469763,44.7024 135.180405,44.8104 135.983738,44.8104 C140.428905,44.8104 144,41.4952 144,37.4056 C144,33.3152 140.363858,30 135.917878,30 L135.917878,30 Z" id="footericon-messenger"></path>
+            </g>
+        </g>
+    </g>
+</svg>
