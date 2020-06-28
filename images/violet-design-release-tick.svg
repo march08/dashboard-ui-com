@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="9px" viewBox="0 0 12 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>violet-design-release-tick</title>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="101.499999%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#6758F3" offset="0%"></stop>
+            <stop stop-color="#915CF4" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="What's-New" transform="translate(-250.000000, -2322.000000)" fill="url(#linearGradient-1)">
+            <g id="Group-14" transform="translate(200.000000, 1399.000000)">
+                <g id="Group-12">
+                    <g id="Section-Headline" transform="translate(50.000000, 576.000000)">
+                        <g id="Group-9" transform="translate(0.000000, 338.000000)">
+                            <path d="M11.7154006,10.7006835 L5.03059099,17.5621904 C4.46090701,18.1459365 3.53893124,18.1459365 2.96924726,17.5621904 L0.28387149,14.805833 C-0.0946238298,14.4173331 -0.0946238298,13.7867678 0.28387149,13.3972716 C0.66333731,13.0087717 1.27766433,13.0087717 1.65615965,13.3972716 L3.31183404,15.0967099 C3.69129986,15.486206 4.30756788,15.486206 4.68800421,15.0967099 L10.3431125,9.29212208 C10.7216078,8.90262597 11.3369053,8.90262597 11.7154006,9.29212208 C12.0948665,9.68062204 12.0948665,10.3121835 11.7154006,10.7006835 Z" id="violet-design-release-tick"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
