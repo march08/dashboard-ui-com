@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="85px" viewBox="0 0 80 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>small-react-icon-numbers</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage" transform="translate(-594.000000, -1260.000000)">
+            <g id="Numbers" transform="translate(195.000000, 997.000000)">
+                <g id="React-Components" transform="translate(331.000000, 189.000000)">
+                    <g id="small-react-icon-numbers" transform="translate(68.000000, 76.000000)">
+                        <polygon id="Shape" points="0 0.953488372 79.905667 0.953488372 79.905667 81.5934884 0 81.5934884"></polygon>
+                        <ellipse id="Oval" fill="#7EDFFC" fill-rule="nonzero" cx="40.1291213" cy="40.0504547" rx="6.82494278" ry="6.887664"></ellipse>
+                        <g id="Group" transform="translate(3.329070, 0.008000)" stroke="#7CDEFC" stroke-width="4">
+                            <ellipse id="Oval" cx="36.6237637" cy="40.4608372" rx="36.6237637" ry="14.112"></ellipse>
+                            <ellipse id="Oval" transform="translate(37.034424, 39.628243) rotate(60.000000) translate(-37.034424, -39.628243) " cx="37.0344245" cy="39.6282431" rx="36.4836355" ry="14.1665129"></ellipse>
+                            <ellipse id="Oval" transform="translate(37.034424, 39.628243) rotate(120.000000) translate(-37.034424, -39.628243) " cx="37.0344245" cy="39.6282431" rx="36.4836355" ry="14.1665129"></ellipse>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
