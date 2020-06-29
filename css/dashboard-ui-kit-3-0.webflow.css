@@ -358,7 +358,7 @@ li {
 .section.fullpreviewheadlinewrap {
   position: relative;
   z-index: 5;
-  margin-bottom: 60px;
+  margin-bottom: 20px;
   padding-top: 52px;
   padding-bottom: 52px;
   background-color: #fff;
@@ -373,7 +373,7 @@ li {
 }
 
 .section.darkfullpreviewsection {
-  padding-top: 60px;
+  padding-top: 20px;
   background-color: #19191b;
   color: #fff;
 }
