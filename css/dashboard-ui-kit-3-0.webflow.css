@@ -344,6 +344,7 @@ li {
 
 .section.lightpricing {
   padding-top: 52px;
+  padding-bottom: 80px;
   background-color: #fbfbfb;
   color: #232425;
 }
@@ -1727,7 +1728,6 @@ li {
   width: 100%;
   max-width: 720px;
   margin-right: auto;
-  margin-bottom: 80px;
   margin-left: auto;
   -webkit-box-align: start;
   -webkit-align-items: start;
@@ -3397,6 +3397,7 @@ li {
   }
   .section.lightpricing {
     padding-top: 44px;
+    padding-bottom: 60px;
   }
   .section.footer {
     padding-top: 80px;
